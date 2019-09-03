@@ -1,0 +1,9 @@
+{
+    "driver":   "postgres",
+    "user":     "postgres",
+    "host":     "localhost",
+	"port":      5432,
+    "name":     "cashQueue",
+    "password": "postgres",
+    "sslmode":  "disable"
+}
